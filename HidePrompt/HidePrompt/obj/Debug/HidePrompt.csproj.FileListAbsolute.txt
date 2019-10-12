@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\HidePrompt\HidePrompt\obj\Debug\HidePrompt.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\HidePrompt\HidePrompt\obj\Debug\HidePrompt.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HidePrompt\HidePrompt\bin\Debug\HidePrompt.exe.config
+C:\Users\User\source\repos\HidePrompt\HidePrompt\bin\Debug\HidePrompt.exe
+C:\Users\User\source\repos\HidePrompt\HidePrompt\bin\Debug\HidePrompt.pdb
+C:\Users\User\source\repos\HidePrompt\HidePrompt\obj\Debug\HidePrompt.exe
+C:\Users\User\source\repos\HidePrompt\HidePrompt\obj\Debug\HidePrompt.pdb
